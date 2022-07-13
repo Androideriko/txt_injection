@@ -1,0 +1,3 @@
+Normally news would be here(since
+this is only a demo app there is 
+no  real need for that)
